@@ -11,7 +11,7 @@ As a group, we all were able to grow our skillsets, build on our knowledge of Gi
 
 LINK TO LIVE PROJECT:
 
-https://brandoncowley.github.io/FirstAwesomeProject//
+https://michaelzadra27.github.io/FirstAwesomeProject//
 
 ![Screenshot of the operational website.](assets/WebsiteScreenshot.JPG)
 
