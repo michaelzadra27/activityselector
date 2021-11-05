@@ -9,9 +9,14 @@ In building this page and designing it, we had three areas to work with - first 
 
 As a group, we all were able to grow our skillsets, build on our knowledge of GitHub and code formatting, and communicate in a constructive way!
 
+# User Experience
+ Pick a category for what you want to do and let the Activity Selector do the rest! You can save activities that you like and revisit them later.
+
 LINK TO LIVE PROJECT:
 
 https://michaelzadra27.github.io/FirstAwesomeProject//
 
 ![Screenshot of the operational website.](assets/WebsiteScreenshot.JPG)
 
+# Technologies
+HTML5, CSS3, JavaScript ES6+, local storage
